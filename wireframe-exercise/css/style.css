@@ -1,0 +1,115 @@
+header{
+    background: #000000;
+    width:100%;
+    
+}
+/* NavBar */
+#nav{
+    width:1020px;
+    color:#999;
+    margin:auto; 
+    height: 80px;
+    padding-top: 10px;
+}
+
+#nav img{
+    margin-left: 30px;
+    position: relative;
+    float: left;
+}
+#nav ul{
+    float: left;
+    padding-top: 10px;
+}
+
+#nav li{
+    list-style: none;
+    float: left;
+    padding-right: 100px;
+    
+}
+
+ section div{
+    color:#999;
+    padding-right: 100px;
+    display:inline;
+    position:relative;
+    bottom:25px;
+    left:40px;
+    
+}
+/* container for content */
+#container{
+    width:1020px;
+    margin:auto;
+}
+
+#hero {
+    position:relative;
+    margin:30px;
+    
+}
+
+#subBannerImgs{
+    margin: 15px;
+}
+
+#subBannerImgs img{
+    padding:15px;  
+    width: 297px;
+}
+
+#featuredContainer{
+    margin:30px;
+    
+    
+}
+#paragraph{
+    width:450px;
+    height:400px;
+    margin-left:30px;
+    position:relative;
+    float:right;
+}
+#featuredContainer img{
+    position:relative;
+    float:left;
+}
+ p{
+    height:310px;
+    overflow:hidden;
+    overflow-y: scroll;
+  
+}
+h2{
+    margin:0px;
+}
+footer{
+    height:200px;
+    background:black;
+    position:relative;
+    width:100%;
+    top:430px;
+
+    
+}
+#button{
+    background-color:black;
+    padding:10px 20px;
+    transition:350ms;
+    width:25px;
+    height:10px;
+    color:white;
+    position:relative;
+
+}
+#button:hover{
+    background-color:gray;
+    color:white;
+}
+
+
+
+
+
+
