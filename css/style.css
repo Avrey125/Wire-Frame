@@ -1,0 +1,39 @@
+header{
+    background: #000000;
+    position:normal;
+    width:100%;
+    
+}
+ div{
+    color:#999;
+    padding-right: 200px;
+    display:inline;
+}
+span img {
+    
+    position:normal;
+    right:300px;
+    top:120px;
+}
+p img{
+    position:relative;
+    left:7em;
+
+}
+p article{
+    position:normal
+}
+section{
+    text-align:center;
+    
+}
+section img{
+    padding-right:12px;
+    padding-left:12px;
+}
+
+
+
+
+
+
